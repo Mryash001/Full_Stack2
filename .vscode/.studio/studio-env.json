@@ -1,9 +1,4 @@
 {
     "STUDIO_HOST_ID": "1hx9t9",
-    "STUDIO_HOST": "bytexl.dev",
-    "MONGODB_HOST": "bytexldb.com",
-    "MONGODB_PORT": "5050",
-    "MONGODB_USERNAME": "user_43yqmp4qm",
-    "MONGODB_PASSWORD": "p43yqmp4qm",
-    "MONGODB_DB": "db_43yqmp4qm"
+    "STUDIO_HOST": "bytexl.dev"
 }
